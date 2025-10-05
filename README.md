@@ -60,7 +60,7 @@
 🔹 [**Travel AI – AI Travel Recommender**](https://github.com/tanmaymaind/travel-ai-tanmay)  
 ✨ *AI-powered trip planner using Python backend + Groq AI, frontend in Next.js/TypeScript.*  
 
-🔹 [**Telco Customer Churn Prediction**](https://github.com/tanmaymaind/telco-churn)  
+🔹 [**Telco Customer Churn Prediction**](https://github.com/tanmaymaind/tele-custmer-churn)  
 📊 *ML models (Logistic Regression, Random Forest) – Achieved 84% ROC-AUC; analyzed churn drivers.*  
 
 🔹 [**Business Employee Management**](https://github.com/tanmaymaind/business-employee-mangment)
