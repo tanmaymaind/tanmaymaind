@@ -63,7 +63,7 @@
 🔹 [**Telco Customer Churn Prediction**](https://github.com/tanmaymaind/telco-churn)  
 📊 *ML models (Logistic Regression, Random Forest) – Achieved 84% ROC-AUC; analyzed churn drivers.*  
 
-🔹 **Employee Management System (SQL)**  
+🔹 [**Business Employee Management**](https://github.com/tanmaymaind/business-employee-mangment)
 🗄 *CRUD operations, joins, aggregations; reporting queries for insights.*  
 
 ---
