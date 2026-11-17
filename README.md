@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tanmay%20Maind&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Python&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Tanmay%20Maind&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Python&descAlignY=58&descAlign=50)
 
 <p align="center">
   <b>B.Tech in AI &amp; Data Science</b> · Data Science &amp; Analytics Intern @ Nexgen Analytics · Building in public, one project a day
@@ -32,24 +32,24 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/tanmaymaind/100-days-ai-ml"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=100-days-ai-ml&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/tanmaymaind/private-search-engine-by-Tanmay-Maind-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=private-search-engine-by-Tanmay-Maind-&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/tanmaymaind/100-days-ai-ml"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tanmaymaind&repo=100-days-ai-ml&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/tanmaymaind/private-search-engine-by-Tanmay-Maind-"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tanmaymaind&repo=private-search-engine-by-Tanmay-Maind-&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanmaymaind/TRAVEL-RECOMEDATION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=TRAVEL-RECOMEDATION&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/tanmaymaind/tele-custmer-churn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=tele-custmer-churn&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/tanmaymaind/TRAVEL-RECOMEDATION"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tanmaymaind&repo=TRAVEL-RECOMEDATION&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/tanmaymaind/tele-custmer-churn"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tanmaymaind&repo=tele-custmer-churn&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaymaind&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tanmaymaind&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaymaind&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tanmaymaind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
 </p>
 
 ## 📈 Activity Graph
@@ -70,4 +70,4 @@
   <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
 </picture>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
