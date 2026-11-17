@@ -22,11 +22,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,anaconda&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda&theme=dark" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
 <p align="center"><i>Also working with: Pandas · NumPy · Matplotlib · Seaborn · Excel</i></p>
@@ -39,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanmaymaind/travel-ai-tanmay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=travel-ai-tanmay&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/tanmaymaind/TRAVEL-RECOMEDATION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=TRAVEL-RECOMEDATION&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/tanmaymaind/tele-custmer-churn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=tele-custmer-churn&theme=tokyonight&hide_border=true" /></a>
 </p>
 
