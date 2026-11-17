@@ -1,0 +1,29 @@
+name: Generate Contribution Snake
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "20 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: tanmaymaind
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git diff --staged --quiet || git commit -m "generated contribution snake"
+          git push
