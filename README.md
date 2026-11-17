@@ -1,112 +1,75 @@
-<div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
-</div>
-
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World 🌍
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanmaymaind&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4C9A2A&center=true&vCenter=true&width=1000&lines=I+am+Tanmay+Maind;AI+%26+Data+Science+Graduate;Building+Novara+-+Private+Search;100+Days+of+AI+%26+ML;Always+Learning...)](https://git.io/typing-svg)
-
----
-
-<img align="right" alt="Coding" width="420" src="https://github.com/shsarv/shsarv/blob/master/code.gif"/>
-
-## 👨‍💻 About Me
-- 🎓 **B.Tech in AI & Data Science** (Marathwada Institute of Technology, Sambhajinagar, 2021–2025).
-- 💼 **Data Science & Analytics Intern** at Nexgen Analytics, Pune (May–Nov 2025).
-- 🔍 Building **Novara** — a private search engine (no history, no tracking) with voice search, AI answers and instant answers.
-- 🤖 On **100 Days of AI & ML** — one small, real project every day.
-- 🐍 Skilled in **Python (Django/Flask), REST APIs, SQL, Pandas, NumPy**.
-- 📊 Strong in **data analysis, dashboards, and ML workflows**.
-- 🤝 Open to **Data Analyst, Python Developer, or Backend Developer roles**.
-
----
-
-## ⚡ Tech Stack
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tanmay%20Maind&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Python&descAlignY=58&descAlign=50)
 
 <p align="center">
-  <!-- Languages & Core -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-  <!-- Data Tools -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-005C84?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 [**Novara — Private Search Engine**](https://tanmaymaind.github.io/private-search-engine-by-Tanmay-Maind-/)
-🔍 *Search privately — no history, no account, no tracking. Voice search, AI answers, instant answers (weather, currency, moon phase & more). Improved every day.*
-
-🔹 [**100 Days of AI & ML**](https://github.com/tanmaymaind/100-days-ai-ml)
-🤖 *One small, real AI/ML project every day — from linear regression from scratch to NLP, computer vision and deep learning.*
-
-🔹 [**Travel AI – AI Travel Recommender**](https://github.com/tanmaymaind/travel-ai-tanmay)
-✨ *AI-powered trip planner using Python backend + Groq AI, frontend in Next.js/TypeScript.*
-
-🔹 [**Telco Customer Churn Prediction**](https://github.com/tanmaymaind/tele-custmer-churn)
-📊 *ML models (Logistic Regression, Random Forest) – Achieved 84% ROC-AUC; analyzed churn drivers.*
-
-🔹 [**Business Employee Management**](https://github.com/tanmaymaind/business-employee-mangment)
-🗄 *CRUD operations, joins, aggregations; reporting queries for insights.*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaymaind&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaymaind&theme=radical" height="160"/>
+  <b>B.Tech in AI &amp; Data Science</b> · Data Science &amp; Analytics Intern @ Nexgen Analytics · Building in public, one project a day
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaind&layout=compact&theme=radical" height="160"/>
+  🎯 Open to <b>Data Analyst</b> / <b>Python Developer</b> roles
 </p>
 
----
+<p align="center">
+  <a href="https://tanmaymaind.github.io/"><img src="https://img.shields.io/badge/Portfolio-tanmaymaind.github.io-0e75b6?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/tanmaymaind"><img src="https://img.shields.io/badge/LinkedIn-tanmaymaind-0077b5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tanmaymaind@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaymaind@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+## 🚀 What I'm Building Now
+
+- 🔍 **[Novara](https://tanmaymaind.github.io/private-search-engine-by-Tanmay-Maind-/)** — a private search engine. No history, no account, no tracking. Voice search, AI answers, instant answers — improved every single day.
+- 🤖 **[100 Days of AI &amp; ML](https://github.com/tanmaymaind/100-days-ai-ml)** — one small, real AI/ML project every day, from linear regression from scratch to NLP, computer vision and deep learning.
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,flask,js,html,css&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,bash&theme=dark" />
+</p>
+
+<p align="center"><i>Also working with: Pandas · NumPy · Matplotlib · Seaborn · Excel</i></p>
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/tanmaymaind/100-days-ai-ml"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=100-days-ai-ml&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/tanmaymaind/private-search-engine-by-Tanmay-Maind-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=private-search-engine-by-Tanmay-Maind-&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanmaymaind/travel-ai-tanmay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=travel-ai-tanmay&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/tanmaymaind/tele-custmer-churn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaymaind&repo=tele-custmer-churn&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmaymaind&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaymaind&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+</p>
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmaymaind&theme=tokyo-night&hide_border=true&area=true)](https://github.com/tanmaymaind)
 
 ## 🏙️ 3D Contribution Graph
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph"/>
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </p>
 
----
+## 🐍 Contribution Snake
 
-## 📬 Connect with Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
+</picture>
 
-<p align="center">
-  <a href="mailto:tanmaymaind@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/tanmaymaind"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/tanmaymaind"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
